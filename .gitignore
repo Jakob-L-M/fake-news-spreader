@@ -1,4 +1,4 @@
 *.gzip
 data/*
 !data/README.md
-.ipynb_check*/*
+*.ipynb_checkpoints/
