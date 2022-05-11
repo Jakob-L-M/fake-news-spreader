@@ -6,3 +6,6 @@ data/*
 *.jpg
 *.drawio
 *.pkl
+
+# Will upload the important plots manualy
+*.pdf
