@@ -1,0 +1,134 @@
+------------
+Model with 2 topics
+0.016*"com" + 0.015*"https" + 0.014*"trump" + 0.012*"say" + 0.008*"people" + 0.008*"www" + 0.007*"would" + 0.007*"go" + 0.006*"make" + 0.005*"s"
+
+0.015*"covid" + 0.013*"death" + 0.011*"woman" + 0.010*"https" + 0.010*"child" + 0.010*"people" + 0.009*"study" + 0.009*"health" + 0.008*"case" + 0.007*"rate"
+
+
+------------
+Model with 3 topics
+0.017*"man" + 0.015*"woman" + 0.008*"people" + 0.006*"make" + 0.006*"would" + 0.006*"law" + 0.006*"use" + 0.006*"government" + 0.005*"group" + 0.005*"right"
+
+0.016*"covid" + 0.013*"death" + 0.011*"people" + 0.010*"study" + 0.009*"health" + 0.009*"https" + 0.008*"high" + 0.008*"case" + 0.008*"increase" + 0.007*"rate"
+
+0.026*"com" + 0.024*"https" + 0.023*"trump" + 0.018*"say" + 0.013*"www" + 0.011*"go" + 0.009*"s" + 0.008*"news" + 0.008*"get" + 0.008*"article"
+
+
+------------
+Model with 4 topics
+0.026*"say" + 0.021*"people" + 0.016*"would" + 0.016*"go" + 0.014*"make" + 0.012*"get" + 0.012*"s" + 0.011*"be" + 0.011*"know" + 0.010*"think"
+
+0.014*"case" + 0.013*"covid" + 0.012*"report" + 0.011*"death" + 0.008*"study" + 0.007*"health" + 0.007*"evidence" + 0.007*"find" + 0.007*"group" + 0.007*"use"
+
+0.075*"trump" + 0.026*"vote" + 0.025*"politic" + 0.025*"election" + 0.018*"state" + 0.014*"biden" + 0.013*"campaign" + 0.012*"poll" + 0.012*"nytime" + 0.011*"voter"
+
+0.056*"https" + 0.052*"com" + 0.029*"www" + 0.021*"man" + 0.021*"article" + 0.018*"woman" + 0.018*"news" + 0.016*"year" + 0.012*"amp" + 0.012*"story"
+
+
+------------
+Model with 5 topics
+0.026*"state" + 0.017*"use" + 0.015*"law" + 0.014*"care" + 0.014*"government" + 0.011*"plan" + 0.010*"bill" + 0.010*"power" + 0.009*"federal" + 0.009*"issue"
+
+0.018*"case" + 0.017*"covid" + 0.015*"report" + 0.014*"death" + 0.013*"group" + 0.010*"study" + 0.010*"police" + 0.009*"evidence" + 0.009*"people" + 0.009*"kill"
+
+0.030*"trump" + 0.026*"say" + 0.018*"people" + 0.015*"go" + 0.013*"would" + 0.012*"get" + 0.012*"make" + 0.012*"s" + 0.011*"be" + 0.011*"vote"
+
+0.079*"com" + 0.078*"https" + 0.040*"www" + 0.029*"man" + 0.029*"article" + 0.025*"woman" + 0.024*"news" + 0.022*"politic" + 0.020*"story" + 0.017*"amp"
+
+0.034*"year" + 0.014*"high" + 0.014*"pay" + 0.014*"money" + 0.013*"child" + 0.011*"much" + 0.011*"business" + 0.010*"country" + 0.010*"job" + 0.010*"life"
+
+
+------------
+Model with 6 topics
+0.061*"state" + 0.060*"vote" + 0.058*"election" + 0.032*"biden" + 0.027*"poll" + 0.025*"voter" + 0.019*"bill" + 0.019*"republican" + 0.017*"support" + 0.017*"win"
+
+0.019*"case" + 0.018*"covid" + 0.015*"death" + 0.013*"group" + 0.012*"child" + 0.011*"study" + 0.010*"police" + 0.010*"health" + 0.010*"use" + 0.010*"many"
+
+0.033*"trump" + 0.028*"say" + 0.023*"people" + 0.017*"would" + 0.017*"go" + 0.015*"make" + 0.013*"get" + 0.013*"s" + 0.012*"time" + 0.012*"be"
+
+0.096*"com" + 0.095*"https" + 0.049*"www" + 0.035*"man" + 0.035*"article" + 0.031*"woman" + 0.030*"news" + 0.027*"politic" + 0.025*"story" + 0.015*"http"
+
+0.018*"law" + 0.017*"high" + 0.017*"pay" + 0.017*"care" + 0.017*"money" + 0.016*"government" + 0.014*"much" + 0.012*"federal" + 0.011*"gun" + 0.011*"rate"
+
+0.023*"year" + 0.020*"amp" + 0.014*"report" + 0.013*"claim" + 0.013*"source" + 0.012*"find" + 0.011*"campaign" + 0.011*"last" + 0.009*"business" + 0.008*"official"
+
+
+------------
+Model with 7 topics
+0.048*"state" + 0.048*"vote" + 0.045*"election" + 0.025*"biden" + 0.025*"support" + 0.022*"law" + 0.022*"poll" + 0.019*"voter" + 0.016*"right" + 0.015*"bill"
+
+0.023*"case" + 0.022*"covid" + 0.018*"death" + 0.016*"group" + 0.014*"child" + 0.013*"study" + 0.013*"police" + 0.013*"health" + 0.010*"patient" + 0.010*"rate"
+
+0.031*"year" + 0.015*"day" + 0.014*"show" + 0.011*"last" + 0.010*"change" + 0.010*"number" + 0.010*"read" + 0.010*"political" + 0.010*"lie" + 0.009*"lead"
+
+0.116*"com" + 0.115*"https" + 0.097*"trump" + 0.059*"www" + 0.041*"article" + 0.036*"news" + 0.032*"politic" + 0.030*"story" + 0.018*"http" + 0.017*"campaign"
+
+0.044*"money" + 0.032*"job" + 0.025*"percent" + 0.025*"family" + 0.024*"rule" + 0.019*"less" + 0.019*"tax" + 0.016*"worker" + 0.015*"second" + 0.014*"decision"
+
+0.022*"amp" + 0.014*"pay" + 0.014*"care" + 0.014*"government" + 0.013*"nytime" + 0.013*"help" + 0.013*"work" + 0.011*"plan" + 0.011*"many" + 0.011*"public"
+
+0.031*"say" + 0.025*"people" + 0.018*"go" + 0.017*"would" + 0.017*"make" + 0.016*"man" + 0.015*"get" + 0.014*"s" + 0.014*"woman" + 0.013*"be"
+
+
+------------
+Model with 8 topics
+0.048*"support" + 0.037*"biden" + 0.025*"change" + 0.023*"political" + 0.022*"bill" + 0.020*"policy" + 0.016*"sander" + 0.016*"level" + 0.015*"conservative" + 0.014*"org"
+
+0.021*"case" + 0.020*"covid" + 0.019*"report" + 0.017*"death" + 0.015*"group" + 0.013*"number" + 0.013*"may" + 0.012*"include" + 0.012*"public" + 0.011*"health"
+
+0.038*"state" + 0.038*"vote" + 0.036*"election" + 0.021*"point" + 0.019*"right" + 0.019*"campaign" + 0.018*"law" + 0.017*"poll" + 0.015*"voter" + 0.012*"president"
+
+0.104*"man" + 0.022*"crime" + 0.020*"former" + 0.018*"charge" + 0.016*"investigation" + 0.015*"feminist" + 0.015*"legal" + 0.014*"male" + 0.013*"fire" + 0.012*"lawyer"
+
+0.044*"amp" + 0.027*"care" + 0.021*"police" + 0.019*"job" + 0.017*"high" + 0.015*"percent" + 0.015*"family" + 0.015*"force" + 0.014*"school" + 0.013*"low"
+
+0.024*"work" + 0.022*"need" + 0.017*"pay" + 0.017*"government" + 0.016*"money" + 0.015*"help" + 0.013*"plan" + 0.013*"end" + 0.012*"business" + 0.012*"year"
+
+0.037*"com" + 0.037*"https" + 0.031*"trump" + 0.027*"say" + 0.022*"people" + 0.019*"www" + 0.016*"go" + 0.014*"make" + 0.014*"article" + 0.013*"get"
+
+0.054*"use" + 0.026*"child" + 0.024*"study" + 0.022*"evidence" + 0.016*"test" + 0.014*"datum" + 0.013*"virus" + 0.013*"read" + 0.011*"community" + 0.011*"continue"
+
+
+------------
+Model with 9 topics
+0.039*"right" + 0.026*"political" + 0.025*"bill" + 0.022*"win" + 0.022*"candidate" + 0.022*"party" + 0.021*"crime" + 0.018*"idea" + 0.018*"sander" + 0.017*"conservative"
+
+0.020*"law" + 0.019*"group" + 0.019*"government" + 0.016*"include" + 0.016*"public" + 0.013*"federal" + 0.012*"official" + 0.012*"accord" + 0.011*"die" + 0.011*"use"
+
+0.043*"state" + 0.043*"vote" + 0.041*"election" + 0.029*"support" + 0.023*"biden" + 0.019*"poll" + 0.017*"voter" + 0.014*"result" + 0.014*"president" + 0.013*"power"
+
+0.122*"man" + 0.052*"report" + 0.050*"http" + 0.020*"org" + 0.018*"investigation" + 0.017*"pandemic" + 0.017*"reuter" + 0.015*"false" + 0.014*"hate" + 0.014*"justice"
+
+0.060*"year" + 0.026*"high" + 0.026*"care" + 0.018*"job" + 0.014*"percent" + 0.014*"family" + 0.014*"rule" + 0.012*"low" + 0.012*"large" + 0.012*"force"
+
+0.072*"woman" + 0.048*"amp" + 0.035*"many" + 0.021*"problem" + 0.019*"increase" + 0.017*"post" + 0.014*"old" + 0.013*"attack" + 0.012*"feminist" + 0.012*"effect"
+
+0.034*"say" + 0.028*"people" + 0.021*"would" + 0.020*"go" + 0.019*"make" + 0.016*"get" + 0.015*"time" + 0.015*"s" + 0.014*"be" + 0.014*"know"
+
+0.036*"case" + 0.036*"covid" + 0.030*"death" + 0.024*"child" + 0.021*"police" + 0.021*"health" + 0.016*"patient" + 0.016*"number" + 0.015*"vaccine" + 0.014*"test"
+
+0.084*"com" + 0.084*"https" + 0.071*"trump" + 0.043*"www" + 0.031*"article" + 0.026*"news" + 0.024*"politic" + 0.022*"story" + 0.012*"campaign" + 0.011*"source"
+
+
+------------
+Model with 10 topics
+0.051*"state" + 0.051*"vote" + 0.049*"election" + 0.035*"support" + 0.027*"biden" + 0.024*"law" + 0.023*"poll" + 0.021*"voter" + 0.016*"bill" + 0.016*"republican"
+
+0.052*"man" + 0.045*"woman" + 0.027*"use" + 0.027*"case" + 0.024*"report" + 0.019*"group" + 0.018*"government" + 0.017*"child" + 0.015*"include" + 0.012*"official"
+
+0.033*"make" + 0.030*"time" + 0.027*"news" + 0.017*"give" + 0.017*"call" + 0.016*"may" + 0.015*"need" + 0.013*"right" + 0.013*"fact" + 0.012*"day"
+
+0.046*"http" + 0.027*"power" + 0.022*"company" + 0.019*"charge" + 0.018*"term" + 0.017*"risk" + 0.017*"name" + 0.016*"feminist" + 0.016*"legal" + 0.015*"male"
+
+0.029*"high" + 0.028*"care" + 0.027*"money" + 0.023*"much" + 0.020*"job" + 0.018*"rate" + 0.017*"system" + 0.016*"percent" + 0.014*"level" + 0.014*"comment"
+
+0.090*"com" + 0.090*"https" + 0.046*"www" + 0.033*"article" + 0.028*"year" + 0.025*"politic" + 0.016*"covid" + 0.013*"death" + 0.013*"show" + 0.013*"find"
+
+0.048*"say" + 0.039*"people" + 0.029*"would" + 0.028*"go" + 0.023*"get" + 0.022*"s" + 0.020*"be" + 0.019*"know" + 0.018*"take" + 0.018*"think"
+
+0.178*"trump" + 0.055*"story" + 0.031*"campaign" + 0.020*"president" + 0.018*"d" + 0.017*"black" + 0.017*"crime" + 0.015*"former" + 0.014*"datum" + 0.013*"russian"
+
+0.047*"police" + 0.041*"video" + 0.038*"gun" + 0.027*"org" + 0.025*"watch" + 0.025*"due" + 0.023*"national" + 0.021*"violence" + 0.019*"home" + 0.019*"race"
+
+0.107*"amp" + 0.041*"patient" + 0.036*"test" + 0.026*"pandemic" + 0.025*"reuter" + 0.025*"mask" + 0.021*"spread" + 0.021*"kid" + 0.020*"majority" + 0.019*"positive"
+
