@@ -9,3 +9,12 @@ data/*
 
 # Will upload the important plots manualy
 *.pdf
+
+# Ignore LDA model files
+*.model
+*.id2word
+*.state
+*.npy
+
+# Ignore rescource folder
+emotional-models/resources/*
