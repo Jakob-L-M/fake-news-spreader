@@ -8,9 +8,6 @@ data/*
 *.pkl
 *.csv
 
-# Will upload the important plots manualy
-*.pdf
-
 # Ignore LDA model files
 *.model
 *.id2word
